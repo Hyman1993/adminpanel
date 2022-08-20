@@ -2,7 +2,7 @@
   "name": "adminpanel",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hyman1993.github.io/adminpanel",
+  "homepage": "http://localhost:80/adminpanel",
   "dependencies": {
     "@emotion/react": "^11.8.1",
     "@emotion/styled": "^11.8.1",
